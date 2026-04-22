@@ -56,7 +56,7 @@ export default function Hero() {
               </div>
               <div className="flex items-center gap-2">
                 <CheckIcon />
-                Fairway Club Diamond
+                Fairway Diamond Club
               </div>
               <div className="flex items-center gap-2">
                 <CheckIcon />
@@ -78,7 +78,7 @@ export default function Hero() {
               />
             </div>
             <div className="absolute -bottom-4 -left-4 rounded-xl bg-white px-4 py-3 text-slate-900 shadow-lg">
-              <div className="text-2xl font-extrabold text-brand-700">15+</div>
+              <div className="text-2xl font-extrabold text-brand-700">20+</div>
               <div className="text-xs font-medium">years helping families</div>
             </div>
           </div>
